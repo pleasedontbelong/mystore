@@ -1,0 +1,1101 @@
+[{
+  "model": "products.product",
+  "pk": 102,
+  "fields": {
+    "name": "donec",
+    "description": "velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id",
+    "price": 71.82,
+    "color": 7,
+    "created_date": "2016-04-12T16:27:09.456Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 103,
+  "fields": {
+    "name": "rhoncus",
+    "description": "convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero",
+    "price": 40.74,
+    "color": 8,
+    "created_date": "2016-04-12T16:27:09.705Z",
+    "in_stock": false
+  }
+}, {
+  "model": "products.product",
+  "pk": 104,
+  "fields": {
+    "name": "maecenas tincidunt",
+    "description": "libero nam dui proin leo odio porttitor id consequat in consequat",
+    "price": 1.4,
+    "color": 9,
+    "created_date": "2016-04-12T16:27:09.855Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 105,
+  "fields": {
+    "name": "porttitor id",
+    "description": "id mauris vulputate elementum nullam varius nulla facilisi cras non velit",
+    "price": 32.34,
+    "color": 10,
+    "created_date": "2016-04-12T16:27:10.007Z",
+    "in_stock": false
+  }
+}, {
+  "model": "products.product",
+  "pk": 106,
+  "fields": {
+    "name": "a suscipit",
+    "description": "ipsum dolor sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit",
+    "price": 51.98,
+    "color": 11,
+    "created_date": "2016-04-12T16:27:10.157Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 107,
+  "fields": {
+    "name": "et",
+    "description": "interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at",
+    "price": 61.95,
+    "color": 12,
+    "created_date": "2016-04-12T16:27:10.316Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 108,
+  "fields": {
+    "name": "massa volutpat",
+    "description": "lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst",
+    "price": 12.84,
+    "color": 9,
+    "created_date": "2016-04-12T16:27:10.450Z",
+    "in_stock": false
+  }
+}, {
+  "model": "products.product",
+  "pk": 109,
+  "fields": {
+    "name": "ipsum primis",
+    "description": "luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh",
+    "price": 41.15,
+    "color": 10,
+    "created_date": "2016-04-12T16:27:10.592Z",
+    "in_stock": false
+  }
+}, {
+  "model": "products.product",
+  "pk": 110,
+  "fields": {
+    "name": "tincidunt",
+    "description": "sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et",
+    "price": 91.6,
+    "color": 3,
+    "created_date": "2016-04-12T16:27:10.777Z",
+    "in_stock": false
+  }
+}, {
+  "model": "products.product",
+  "pk": 111,
+  "fields": {
+    "name": "viverra",
+    "description": "sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi",
+    "price": 23.75,
+    "color": 5,
+    "created_date": "2016-04-12T16:27:10.935Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 112,
+  "fields": {
+    "name": "suspendisse",
+    "description": "nunc donec quis orci eget orci vehicula condimentum curabitur in",
+    "price": 11.71,
+    "color": 8,
+    "created_date": "2016-04-12T16:27:11.086Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 113,
+  "fields": {
+    "name": "augue",
+    "description": "praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum",
+    "price": 29.58,
+    "color": 3,
+    "created_date": "2016-04-12T16:27:11.228Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 114,
+  "fields": {
+    "name": "diam",
+    "description": "elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien",
+    "price": 5.38,
+    "color": 4,
+    "created_date": "2016-04-12T16:27:11.372Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 115,
+  "fields": {
+    "name": "vestibulum",
+    "description": "vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula",
+    "price": 11.09,
+    "color": 13,
+    "created_date": "2016-04-12T16:27:11.514Z",
+    "in_stock": false
+  }
+}, {
+  "model": "products.product",
+  "pk": 116,
+  "fields": {
+    "name": "quis tortor",
+    "description": "egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies",
+    "price": 28.52,
+    "color": 13,
+    "created_date": "2016-04-12T16:27:11.673Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 117,
+  "fields": {
+    "name": "at",
+    "description": "nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id",
+    "price": 88.1,
+    "color": 10,
+    "created_date": "2016-04-12T16:27:11.832Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 118,
+  "fields": {
+    "name": "fringilla rhoncus",
+    "description": "integer a nibh in quis justo maecenas rhoncus aliquam lacus",
+    "price": 64.49,
+    "color": 14,
+    "created_date": "2016-04-12T16:27:11.991Z",
+    "in_stock": false
+  }
+}, {
+  "model": "products.product",
+  "pk": 119,
+  "fields": {
+    "name": "tincidunt eu",
+    "description": "morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor",
+    "price": 53.32,
+    "color": 1,
+    "created_date": "2016-04-12T16:27:12.166Z",
+    "in_stock": false
+  }
+}, {
+  "model": "products.product",
+  "pk": 120,
+  "fields": {
+    "name": "orci",
+    "description": "amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique tortor",
+    "price": 18.8,
+    "color": 1,
+    "created_date": "2016-04-12T16:27:12.325Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 121,
+  "fields": {
+    "name": "ultrices phasellus",
+    "description": "dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac",
+    "price": 55.99,
+    "color": 6,
+    "created_date": "2016-04-12T16:27:12.485Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 122,
+  "fields": {
+    "name": "ut odio",
+    "description": "id mauris vulputate elementum nullam varius nulla facilisi cras non velit",
+    "price": 96.34,
+    "color": 14,
+    "created_date": "2016-04-12T16:27:12.643Z",
+    "in_stock": false
+  }
+}, {
+  "model": "products.product",
+  "pk": 123,
+  "fields": {
+    "name": "ut ultrices",
+    "description": "lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt",
+    "price": 50.12,
+    "color": 8,
+    "created_date": "2016-04-12T16:27:12.811Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 124,
+  "fields": {
+    "name": "in faucibus",
+    "description": "erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla",
+    "price": 40.65,
+    "color": 10,
+    "created_date": "2016-04-12T16:27:12.978Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 125,
+  "fields": {
+    "name": "mus etiam",
+    "description": "ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit",
+    "price": 7.51,
+    "color": 7,
+    "created_date": "2016-04-12T16:27:13.137Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 126,
+  "fields": {
+    "name": "cum",
+    "description": "est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et",
+    "price": 22.57,
+    "color": 2,
+    "created_date": "2016-04-12T16:27:13.321Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 127,
+  "fields": {
+    "name": "nulla neque",
+    "description": "morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus",
+    "price": 43.19,
+    "color": 5,
+    "created_date": "2016-04-12T16:27:13.464Z",
+    "in_stock": false
+  }
+}, {
+  "model": "products.product",
+  "pk": 128,
+  "fields": {
+    "name": "ipsum primis",
+    "description": "pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut",
+    "price": 59.38,
+    "color": 9,
+    "created_date": "2016-04-12T16:27:13.606Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 129,
+  "fields": {
+    "name": "orci vehicula",
+    "description": "eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis",
+    "price": 45.67,
+    "color": 1,
+    "created_date": "2016-04-12T16:27:13.748Z",
+    "in_stock": false
+  }
+}, {
+  "model": "products.product",
+  "pk": 130,
+  "fields": {
+    "name": "vestibulum ante",
+    "description": "nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum",
+    "price": 61.83,
+    "color": 14,
+    "created_date": "2016-04-12T16:27:13.891Z",
+    "in_stock": false
+  }
+}, {
+  "model": "products.product",
+  "pk": 131,
+  "fields": {
+    "name": "donec",
+    "description": "dui maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum",
+    "price": 37.32,
+    "color": 15,
+    "created_date": "2016-04-12T16:27:14.050Z",
+    "in_stock": false
+  }
+}, {
+  "model": "products.product",
+  "pk": 132,
+  "fields": {
+    "name": "nulla",
+    "description": "felis ut at dolor quis odio consequat varius integer ac",
+    "price": 41.1,
+    "color": 16,
+    "created_date": "2016-04-12T16:27:14.208Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 133,
+  "fields": {
+    "name": "duis mattis",
+    "description": "pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi",
+    "price": 18.82,
+    "color": 17,
+    "created_date": "2016-04-12T16:27:14.351Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 134,
+  "fields": {
+    "name": "vel nulla",
+    "description": "dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum",
+    "price": 35.38,
+    "color": 11,
+    "created_date": "2016-04-12T16:27:14.510Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 135,
+  "fields": {
+    "name": "lorem ipsum",
+    "description": "sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede",
+    "price": 95.7,
+    "color": 9,
+    "created_date": "2016-04-12T16:27:14.693Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 136,
+  "fields": {
+    "name": "nisi at",
+    "description": "magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis",
+    "price": 29.05,
+    "color": 8,
+    "created_date": "2016-04-12T16:27:14.861Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 137,
+  "fields": {
+    "name": "sem sed",
+    "description": "quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi",
+    "price": 10.04,
+    "color": 18,
+    "created_date": "2016-04-12T16:27:15.020Z",
+    "in_stock": false
+  }
+}, {
+  "model": "products.product",
+  "pk": 138,
+  "fields": {
+    "name": "nibh",
+    "description": "bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor",
+    "price": 69.85,
+    "color": 17,
+    "created_date": "2016-04-12T16:27:15.179Z",
+    "in_stock": false
+  }
+}, {
+  "model": "products.product",
+  "pk": 139,
+  "fields": {
+    "name": "praesent",
+    "description": "ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu",
+    "price": 78.2,
+    "color": 8,
+    "created_date": "2016-04-12T16:27:15.338Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 140,
+  "fields": {
+    "name": "lectus",
+    "description": "lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis",
+    "price": 24.48,
+    "color": 12,
+    "created_date": "2016-04-12T16:27:15.480Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 141,
+  "fields": {
+    "name": "justo",
+    "description": "quam nec dui luctus rutrum nulla tellus in sagittis dui",
+    "price": 1.03,
+    "color": 6,
+    "created_date": "2016-04-12T16:27:15.623Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 142,
+  "fields": {
+    "name": "ipsum",
+    "description": "nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum",
+    "price": 6.9,
+    "color": 3,
+    "created_date": "2016-04-12T16:27:15.766Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 143,
+  "fields": {
+    "name": "ipsum aliquam",
+    "description": "sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis",
+    "price": 44.84,
+    "color": 5,
+    "created_date": "2016-04-12T16:27:15.908Z",
+    "in_stock": false
+  }
+}, {
+  "model": "products.product",
+  "pk": 144,
+  "fields": {
+    "name": "at",
+    "description": "nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et",
+    "price": 34.82,
+    "color": 18,
+    "created_date": "2016-04-12T16:27:16.067Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 145,
+  "fields": {
+    "name": "leo",
+    "description": "iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate",
+    "price": 62.59,
+    "color": 15,
+    "created_date": "2016-04-12T16:27:16.242Z",
+    "in_stock": false
+  }
+}, {
+  "model": "products.product",
+  "pk": 146,
+  "fields": {
+    "name": "adipiscing",
+    "description": "mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean",
+    "price": 13.45,
+    "color": 12,
+    "created_date": "2016-04-12T16:27:16.401Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 147,
+  "fields": {
+    "name": "nunc viverra",
+    "description": "non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue",
+    "price": 38.07,
+    "color": 12,
+    "created_date": "2016-04-12T16:27:16.569Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 148,
+  "fields": {
+    "name": "praesent lectus",
+    "description": "ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo",
+    "price": 64.99,
+    "color": 16,
+    "created_date": "2016-04-12T16:27:16.736Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 149,
+  "fields": {
+    "name": "sed tristique",
+    "description": "ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis",
+    "price": 88.61,
+    "color": 3,
+    "created_date": "2016-04-12T16:27:16.895Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 150,
+  "fields": {
+    "name": "id turpis",
+    "description": "faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec",
+    "price": 83.25,
+    "color": 17,
+    "created_date": "2016-04-12T16:27:17.054Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 151,
+  "fields": {
+    "name": "vehicula condimentum",
+    "description": "at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget",
+    "price": 40.04,
+    "color": 3,
+    "created_date": "2016-04-12T16:27:17.221Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 152,
+  "fields": {
+    "name": "integer",
+    "description": "fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis",
+    "price": 34.32,
+    "color": 9,
+    "created_date": "2016-04-12T16:27:17.405Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 153,
+  "fields": {
+    "name": "pede",
+    "description": "duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at",
+    "price": 3.44,
+    "color": 15,
+    "created_date": "2016-04-12T16:27:17.556Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 154,
+  "fields": {
+    "name": "ac",
+    "description": "pretium quis lectus suspendisse potenti in eleifend quam a odio",
+    "price": 69.85,
+    "color": 8,
+    "created_date": "2016-04-12T16:27:17.699Z",
+    "in_stock": false
+  }
+}, {
+  "model": "products.product",
+  "pk": 155,
+  "fields": {
+    "name": "amet",
+    "description": "lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam",
+    "price": 53.14,
+    "color": 13,
+    "created_date": "2016-04-12T16:27:17.841Z",
+    "in_stock": false
+  }
+}, {
+  "model": "products.product",
+  "pk": 156,
+  "fields": {
+    "name": "et",
+    "description": "dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula",
+    "price": 23.07,
+    "color": 2,
+    "created_date": "2016-04-12T16:27:17.983Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 157,
+  "fields": {
+    "name": "vehicula",
+    "description": "integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo",
+    "price": 76.52,
+    "color": 3,
+    "created_date": "2016-04-12T16:27:18.142Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 158,
+  "fields": {
+    "name": "adipiscing",
+    "description": "est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc",
+    "price": 66.78,
+    "color": 6,
+    "created_date": "2016-04-12T16:27:18.301Z",
+    "in_stock": false
+  }
+}, {
+  "model": "products.product",
+  "pk": 159,
+  "fields": {
+    "name": "nulla ut",
+    "description": "aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu",
+    "price": 55.61,
+    "color": 11,
+    "created_date": "2016-04-12T16:27:18.469Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 160,
+  "fields": {
+    "name": "amet",
+    "description": "congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat",
+    "price": 48.85,
+    "color": 12,
+    "created_date": "2016-04-12T16:27:18.627Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 161,
+  "fields": {
+    "name": "ac",
+    "description": "nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula",
+    "price": 75.92,
+    "color": 4,
+    "created_date": "2016-04-12T16:27:18.786Z",
+    "in_stock": false
+  }
+}, {
+  "model": "products.product",
+  "pk": 162,
+  "fields": {
+    "name": "nibh fusce",
+    "description": "nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam",
+    "price": 64.15,
+    "color": 11,
+    "created_date": "2016-04-12T16:27:18.945Z",
+    "in_stock": false
+  }
+}, {
+  "model": "products.product",
+  "pk": 163,
+  "fields": {
+    "name": "primis",
+    "description": "sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum",
+    "price": 19.64,
+    "color": 19,
+    "created_date": "2016-04-12T16:27:19.096Z",
+    "in_stock": false
+  }
+}, {
+  "model": "products.product",
+  "pk": 164,
+  "fields": {
+    "name": "pede",
+    "description": "vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna",
+    "price": 45.82,
+    "color": 7,
+    "created_date": "2016-04-12T16:27:19.255Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 165,
+  "fields": {
+    "name": "est quam",
+    "description": "aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed",
+    "price": 16.45,
+    "color": 19,
+    "created_date": "2016-04-12T16:27:19.431Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 166,
+  "fields": {
+    "name": "feugiat",
+    "description": "nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit",
+    "price": 3.29,
+    "color": 4,
+    "created_date": "2016-04-12T16:27:19.598Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 167,
+  "fields": {
+    "name": "sed accumsan",
+    "description": "erat fermentum justo nec condimentum neque sapien placerat ante nulla",
+    "price": 45.27,
+    "color": 6,
+    "created_date": "2016-04-12T16:27:19.749Z",
+    "in_stock": false
+  }
+}, {
+  "model": "products.product",
+  "pk": 168,
+  "fields": {
+    "name": "tellus",
+    "description": "venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus",
+    "price": 82.33,
+    "color": 5,
+    "created_date": "2016-04-12T16:27:19.892Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 169,
+  "fields": {
+    "name": "a feugiat",
+    "description": "venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus",
+    "price": 84.83,
+    "color": 13,
+    "created_date": "2016-04-12T16:27:20.034Z",
+    "in_stock": false
+  }
+}, {
+  "model": "products.product",
+  "pk": 170,
+  "fields": {
+    "name": "id",
+    "description": "velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium",
+    "price": 83.48,
+    "color": 1,
+    "created_date": "2016-04-12T16:27:20.184Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 171,
+  "fields": {
+    "name": "condimentum",
+    "description": "ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla",
+    "price": 84.06,
+    "color": 6,
+    "created_date": "2016-04-12T16:27:20.351Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 172,
+  "fields": {
+    "name": "nam",
+    "description": "suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam",
+    "price": 70.5,
+    "color": 9,
+    "created_date": "2016-04-12T16:27:20.519Z",
+    "in_stock": false
+  }
+}, {
+  "model": "products.product",
+  "pk": 173,
+  "fields": {
+    "name": "vestibulum",
+    "description": "rutrum ac lobortis vel dapibus at diam nam tristique tortor eu pede",
+    "price": 15.67,
+    "color": 16,
+    "created_date": "2016-04-12T16:27:20.678Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 174,
+  "fields": {
+    "name": "congue",
+    "description": "donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in",
+    "price": 29.69,
+    "color": 15,
+    "created_date": "2016-04-12T16:27:20.837Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 175,
+  "fields": {
+    "name": "ac",
+    "description": "ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam",
+    "price": 93.79,
+    "color": 1,
+    "created_date": "2016-04-12T16:27:20.988Z",
+    "in_stock": false
+  }
+}, {
+  "model": "products.product",
+  "pk": 176,
+  "fields": {
+    "name": "curae",
+    "description": "id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante",
+    "price": 45.52,
+    "color": 5,
+    "created_date": "2016-04-12T16:27:21.138Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 177,
+  "fields": {
+    "name": "habitasse platea",
+    "description": "suspendisse ornare consequat lectus in est risus auctor sed tristique",
+    "price": 85.53,
+    "color": 4,
+    "created_date": "2016-04-12T16:27:21.297Z",
+    "in_stock": false
+  }
+}, {
+  "model": "products.product",
+  "pk": 178,
+  "fields": {
+    "name": "dis parturient",
+    "description": "vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede",
+    "price": 93.89,
+    "color": 15,
+    "created_date": "2016-04-12T16:27:21.473Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 179,
+  "fields": {
+    "name": "habitasse",
+    "description": "erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus",
+    "price": 58.7,
+    "color": 19,
+    "created_date": "2016-04-12T16:27:21.632Z",
+    "in_stock": false
+  }
+}, {
+  "model": "products.product",
+  "pk": 180,
+  "fields": {
+    "name": "in",
+    "description": "vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat",
+    "price": 89.45,
+    "color": 9,
+    "created_date": "2016-04-12T16:27:21.792Z",
+    "in_stock": false
+  }
+}, {
+  "model": "products.product",
+  "pk": 181,
+  "fields": {
+    "name": "leo",
+    "description": "amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi",
+    "price": 25.69,
+    "color": 14,
+    "created_date": "2016-04-12T16:27:21.959Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 182,
+  "fields": {
+    "name": "primis in",
+    "description": "vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit",
+    "price": 9.13,
+    "color": 17,
+    "created_date": "2016-04-12T16:27:22.110Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 183,
+  "fields": {
+    "name": "elementum",
+    "description": "dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida",
+    "price": 32.86,
+    "color": 1,
+    "created_date": "2016-04-12T16:27:22.269Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 184,
+  "fields": {
+    "name": "fusce",
+    "description": "eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam dui proin leo",
+    "price": 39.34,
+    "color": 3,
+    "created_date": "2016-04-12T16:27:22.428Z",
+    "in_stock": false
+  }
+}, {
+  "model": "products.product",
+  "pk": 185,
+  "fields": {
+    "name": "porttitor pede",
+    "description": "quis odio consequat varius integer ac leo pellentesque ultrices mattis odio",
+    "price": 45.02,
+    "color": 11,
+    "created_date": "2016-04-12T16:27:22.603Z",
+    "in_stock": false
+  }
+}, {
+  "model": "products.product",
+  "pk": 186,
+  "fields": {
+    "name": "fusce lacus",
+    "description": "a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla",
+    "price": 79.04,
+    "color": 8,
+    "created_date": "2016-04-12T16:27:22.754Z",
+    "in_stock": false
+  }
+}, {
+  "model": "products.product",
+  "pk": 187,
+  "fields": {
+    "name": "lobortis sapien",
+    "description": "nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem",
+    "price": 51.74,
+    "color": 8,
+    "created_date": "2016-04-12T16:27:22.905Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 188,
+  "fields": {
+    "name": "morbi non",
+    "description": "semper est quam pharetra magna ac consequat metus sapien ut",
+    "price": 66.38,
+    "color": 18,
+    "created_date": "2016-04-12T16:27:23.080Z",
+    "in_stock": false
+  }
+}, {
+  "model": "products.product",
+  "pk": 189,
+  "fields": {
+    "name": "diam in",
+    "description": "ac nibh fusce lacus purus aliquet at feugiat non pretium quis",
+    "price": 26.36,
+    "color": 3,
+    "created_date": "2016-04-12T16:27:23.256Z",
+    "in_stock": false
+  }
+}, {
+  "model": "products.product",
+  "pk": 190,
+  "fields": {
+    "name": "pede",
+    "description": "duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui",
+    "price": 29.49,
+    "color": 6,
+    "created_date": "2016-04-12T16:27:23.415Z",
+    "in_stock": false
+  }
+}, {
+  "model": "products.product",
+  "pk": 191,
+  "fields": {
+    "name": "fringilla",
+    "description": "justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut",
+    "price": 9.21,
+    "color": 7,
+    "created_date": "2016-04-12T16:27:23.574Z",
+    "in_stock": false
+  }
+}, {
+  "model": "products.product",
+  "pk": 192,
+  "fields": {
+    "name": "vestibulum",
+    "description": "pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales",
+    "price": 44.72,
+    "color": 7,
+    "created_date": "2016-04-12T16:27:23.741Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 193,
+  "fields": {
+    "name": "est",
+    "description": "donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus",
+    "price": 63.03,
+    "color": 19,
+    "created_date": "2016-04-12T16:27:23.884Z",
+    "in_stock": false
+  }
+}, {
+  "model": "products.product",
+  "pk": 194,
+  "fields": {
+    "name": "purus sit",
+    "description": "nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus",
+    "price": 96.42,
+    "color": 16,
+    "created_date": "2016-04-12T16:27:24.027Z",
+    "in_stock": false
+  }
+}, {
+  "model": "products.product",
+  "pk": 195,
+  "fields": {
+    "name": "vulputate ut",
+    "description": "pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id",
+    "price": 43.29,
+    "color": 9,
+    "created_date": "2016-04-12T16:27:24.177Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 196,
+  "fields": {
+    "name": "pellentesque",
+    "description": "lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat",
+    "price": 18.08,
+    "color": 8,
+    "created_date": "2016-04-12T16:27:24.327Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 197,
+  "fields": {
+    "name": "imperdiet",
+    "description": "amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis",
+    "price": 72.03,
+    "color": 5,
+    "created_date": "2016-04-12T16:27:24.487Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 198,
+  "fields": {
+    "name": "erat curabitur",
+    "description": "ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla",
+    "price": 69.8,
+    "color": 3,
+    "created_date": "2016-04-12T16:27:24.637Z",
+    "in_stock": false
+  }
+}, {
+  "model": "products.product",
+  "pk": 199,
+  "fields": {
+    "name": "cubilia",
+    "description": "ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien",
+    "price": 45.35,
+    "color": 12,
+    "created_date": "2016-04-12T16:27:24.788Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 200,
+  "fields": {
+    "name": "tristique",
+    "description": "sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel",
+    "price": 78.92,
+    "color": 11,
+    "created_date": "2016-04-12T16:27:24.947Z",
+    "in_stock": true
+  }
+}, {
+  "model": "products.product",
+  "pk": 201,
+  "fields": {
+    "name": "cras in",
+    "description": "praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam",
+    "price": 42.96,
+    "color": 1,
+    "created_date": "2016-04-12T16:27:25.106Z",
+    "in_stock": false
+  }
+}]
