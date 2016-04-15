@@ -55,6 +55,16 @@ class ProductRetrieveUpdateDestroyView(generics.RetrieveUpdateDestroyAPIView):
         """
         return super(ProductRetrieveUpdateDestroyView, self).update(*args, **kwargs)
 
+    def partial_update(self, *args, **kwargs):
+        """
+        Partially updates a product
+        ---
+            tags:
+                - Product
+            operationId: patchProduct
+        """
+        return super(ProductRetrieveUpdateDestroyView, self).partial_update(*args, **kwargs)
+
     def destroy(self, *args, **kwargs):
         """
         Destroys a product
