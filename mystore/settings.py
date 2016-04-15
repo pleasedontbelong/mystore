@@ -37,6 +37,7 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'django_extensions',
     'rest_framework',
+    'rest_framework_swagger',
     'products',
 )
 
@@ -131,3 +132,38 @@ STATICFILES_DIRS = [
 # Simplified static file serving.
 # https://warehouse.python.org/project/whitenoise/
 STATICFILES_STORAGE = 'whitenoise.django.GzipManifestStaticFilesStorage'
+
+REST_FRAMEWORK = {
+    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',
+    'PAGE_SIZE': 20
+}
+
+SWAGGER_GLOBAL_SETTINGS = {
+    'include_module_paths': [],
+    'exclude_url_patterns': [],
+    'exclude_namespaces': [],
+    'produces': [
+        'application/json'
+    ],
+    'requires_authentication': True,
+    'requires_superuser': False,
+    'basePath': '/',
+    'info': {
+        'version': '1.0.0',
+        'description': 'MyStore API',
+        'title': 'MyStore',
+    },
+    "securityDefinitions": {},
+    "security": [],
+}
+
+SWAGGER_LOCAL_SETTINGS = {
+    "default": {
+        'include_module_paths': [
+            'products.urls',
+        ],
+        'requires_superuser': False,
+        'requires_authentication': False
+    }
+
+}
