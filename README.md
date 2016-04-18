@@ -1,3 +1,11 @@
+# Links for the demo
+
+ - https://github.com/pleasedontbelong/mystore
+ - https://whispering-hamlet-27033.herokuapp.com/products
+ - https://whispering-hamlet-27033.herokuapp.com/api/swagger.json
+ - https://apimatic.io/
+ - http://petstore.swagger.io/
+
 # Heroku Django Starter Template
 
 An utterly fantastic project starter template for Django 1.9.
