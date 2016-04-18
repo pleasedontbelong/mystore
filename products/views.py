@@ -34,6 +34,7 @@ class ProductRetrieveUpdateDestroyView(generics.RetrieveUpdateDestroyAPIView):
     queryset = Product.objects.all()
     serializer_class = ProductSerializer
     pagination_class = None
+    lookup_url_kwarg = "product_id"
 
     def retrieve(self, *args, **kwargs):
         """
