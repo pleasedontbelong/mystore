@@ -8,4 +8,5 @@ class ProductSerializer(serializers.ModelSerializer):
         swagger_name = "Product"
         _in = "body"
         model = Product
-        fields = ('name', 'description', 'price', 'color', 'created_date', 'in_stock')
+        fields = ('id', 'name', 'description', 'price', 'color', 'created_date', 'in_stock')
+        read_only = ('id',)
